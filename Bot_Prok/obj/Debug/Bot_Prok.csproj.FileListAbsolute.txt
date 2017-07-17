@@ -1,0 +1,41 @@
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Bot Application.dll.config
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Bot Application.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Bot Application.pdb
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Autofac.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Chronic.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.Bot.Builder.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.Bot.Connector.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Newtonsoft.Json.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.Net.Http.Formatting.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.Web.Http.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.Web.Http.WebHost.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Autofac.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.Bot.Builder.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.Bot.Connector.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\Newtonsoft.Json.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.Net.Http.Formatting.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.Web.Http.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\System.Web.Http.WebHost.xml
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\obj\Debug\Bot_Prok.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\obj\Debug\Bot Application.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\obj\Debug\Bot Application.pdb
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\AngleSharp.dll
+D:\Visual Studio Projects\BOTS\Bot_Prok\Bot_Prok\bin\AngleSharp.xml
